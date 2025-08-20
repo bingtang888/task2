@@ -4,6 +4,7 @@ import "fmt"
 
 func addTen(num *int) {
 	*num += 10
+
 }
 
 func main() {
